@@ -4,7 +4,7 @@ This is my home page! My name is Tommy Wijaya and I am a student at [Cal State F
 
 ## Computer Science Projects
 
-My GitHub page is http://github.com/ramzawolf1266.
+My GitHub page is http://github.com/ramzawolf1266
 
 ### CPSC 120
 
